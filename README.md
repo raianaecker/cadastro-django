@@ -15,4 +15,15 @@ Se trata de um cadastro simples, em que é possível cadastrar suas tarefas e ta
 
 ---
 
-Desenvolvido por Raiana Ecker 
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Node.js 
+- Handlebars
+- SQLite 
+
+---
+
+Desenvolvido por Raiana Ecker
