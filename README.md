@@ -10,7 +10,7 @@ Se trata de um cadastro simples, em que é possível cadastrar suas tarefas e ta
 
 <p align="center">
   <img src="https://i.ibb.co/NW65FCb/django1.jpg" >
-  <img src="https://i.ibb.co/4Z78TsF/django2.jpg >
+  <img src="https://i.ibb.co/4Z78TsF/django2.jpg" >
 </p>
 
 ---
