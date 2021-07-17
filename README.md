@@ -15,5 +15,4 @@ Se trata de um cadastro simples, em que é possível cadastrar suas tarefas e ta
 
 ---
 
-
 Desenvolvido por Raiana Ecker 
