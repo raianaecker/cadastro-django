@@ -13,16 +13,6 @@ Se trata de um cadastro simples, em que é possível cadastrar suas tarefas e ta
   <img src="https://i.ibb.co/4Z78TsF/django2.jpg" >
 </p>
 
----
-
-## Tecnologias utilizadas
-
-- HTML
-- CSS
-- JavaScript
-- Node.js 
-- Handlebars
-- SQLite 
 
 ---
 
